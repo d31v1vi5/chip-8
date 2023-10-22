@@ -5,7 +5,6 @@
 <p align="center" width="100%">
     <img width="90%" src="imgs/chip8_demo.gif">
 </p>
-![](imgs/chip8_demo.gif)
 
 Yet another CHIP-8 interpreter.
 ### Installation
